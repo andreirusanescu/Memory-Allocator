@@ -1,1 +1,1 @@
-[Documentation](https://gitlab.cs.pub.ro/operating-systems/assignment-parallel-firewall)
+[Documentation for the parralel firewall](https://gitlab.cs.pub.ro/operating-systems/assignment-parallel-firewall)
