@@ -1,0 +1,1 @@
+[Details of implementation](https://cs-pub-ro.github.io/operating-systems/Assignments/Memory%20Allocator/)
